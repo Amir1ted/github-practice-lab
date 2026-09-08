@@ -6,4 +6,3 @@ and maybe in the future works for other projects.
 ## Goals
 
 - Learn branches
-- Learn 

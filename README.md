@@ -7,5 +7,3 @@ and maybe in the future works for other projects.
 
 - Learn branches
 - Learn commits
-- Learn pull requests
-edited now
